@@ -1,3 +1,3 @@
-# Simulator de ecosistem
+# Joc Real-Time Strategy
 
-Un program cu interacțiune minimă cu utilizatorul, care generează și simulează un ecosistem artificial, inspirat de viața reală.
+Un joc Real-Time strategy, cu o singură facțiune și tipuri de unități limitate. Economie bazată pe două tipuri de resurse diferite, inspirat de jocuri precum Starcraft și Warcraft.

@@ -1,3 +1,3 @@
-# Joc Real-Time Strategy
+# Glorbz
 
-Un joc Real-Time strategy, cu o singură facțiune și tipuri de unități limitate. Economie bazată pe două tipuri de resurse diferite, inspirat de jocuri precum Starcraft și Warcraft.
+Un joc Real-Time strategy cu o singură facțiune, The Glorbz. Economie bazată pe două tipuri de resurse diferite, inspirat de jocuri precum Starcraft și Warcraft.
